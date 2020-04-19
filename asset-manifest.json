@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lastdone/static/css/main.0d16e165.chunk.css",
+    "main.js": "/lastdone/static/js/main.b1e4754d.chunk.js",
+    "main.js.map": "/lastdone/static/js/main.b1e4754d.chunk.js.map",
+    "runtime-main.js": "/lastdone/static/js/runtime-main.98a501d9.js",
+    "runtime-main.js.map": "/lastdone/static/js/runtime-main.98a501d9.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/lastdone/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.df3de0a6.chunk.js": "/lastdone/static/js/2.df3de0a6.chunk.js",
+    "static/js/2.df3de0a6.chunk.js.map": "/lastdone/static/js/2.df3de0a6.chunk.js.map",
+    "index.html": "/lastdone/index.html",
+    "precache-manifest.ff49203af1537d0f77ea784b93604fbc.js": "/lastdone/precache-manifest.ff49203af1537d0f77ea784b93604fbc.js",
+    "service-worker.js": "/lastdone/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/lastdone/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.0d16e165.chunk.css.map": "/lastdone/static/css/main.0d16e165.chunk.css.map",
+    "static/js/2.df3de0a6.chunk.js.LICENSE.txt": "/lastdone/static/js/2.df3de0a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98a501d9.js",
+    "static/css/2.66b7f74f.chunk.css",
+    "static/js/2.df3de0a6.chunk.js",
+    "static/css/main.0d16e165.chunk.css",
+    "static/js/main.b1e4754d.chunk.js"
+  ]
+}
